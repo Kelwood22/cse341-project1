@@ -1,0 +1,9 @@
+### Root route
+GET http://localhost:3000/
+
+### Get all contacts
+GET http://localhost:3000/contacts
+
+### Get a single contact by ID
+GET http://localhost:3000/contacts/69a8a1b5da6ae70d5381ef3d
+
